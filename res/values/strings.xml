@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Todo</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- login strings -->
+    <string name="hint_email">Email Eingeben</string>
+    <string name="hint_password">Kennwort Eingeben</string>
+    <string name="button_login">Einloggen</string>
+    <string name="email_bad">Fehler Email</string>
+    <string name="password_bad">Fehler Password</string>
+
+    <!-- todo strings -->
+    <!-- todo  detail -->
+    <string name="itemdetails_name">Name</string>
+    <string name="itemdetails_description">Description</string>
+    <string name="rang">Rang</string>
+
+</resources>
